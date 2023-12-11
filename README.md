@@ -7,11 +7,16 @@
 #     Mark tasks as completed
 #     Delete tasks
 
-![Alt text="pic1"](sample pictures/10-12-2023--19;57--2.png)
-![Alt text="pic2"](sample pictures/10-12-2023--20;07--3.png)
-![Alt text="pic3"](sample pictures/10-12-2023--20;09--4.png)
-![Alt text="pic4"](sample pictures/10-12-2023--20;09--5.png)
-![Alt text="pic5"](sample pictures/10-12-2023--20;12--6.png)
-![Alt text="pic6"](sample pictures/10-12-2023--20;12--7.png)
+![pic1](/TO-DO-app/sample pictures/10-12-2023--19;57--2.png)
+
+![pic2](/TO-DO-app/sample pictures/10-12-2023--20;07--3.png)
+
+![pic3](/TO-DO-app/sample pictures/10-12-2023--20;09--4.png)
+
+![pic4](/TO-DO-app/sample pictures/10-12-2023--20;09--5.png)
+
+![pic5](/TO-DO-app/sample pictures/10-12-2023--20;12--6.png)
+
+![pic6](/TO-DO-app/sample pictures/10-12-2023--20;12--7.png)
 
 
